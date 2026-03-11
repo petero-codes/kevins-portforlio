@@ -1,0 +1,75 @@
+﻿
+> kevoo@0.0.0 build
+> vite build
+
+[36mvite v7.3.1 [32mbuilding client environment for production...[36m[39m
+[32mΓ£ô[39m 0 modules transformed.
+node.exe : 
+[31mΓ£ù[39m Build 
+failed in 40ms
+At line:1 char:1
++ & "C:\Program Files\
+nodejs/node.exe" 
+"C:\Program 
+Files\nodejs/node_mo 
+...
++ ~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~
+~~~~~
+    + CategoryInfo    
+          : 
+NotSpecified: (    
+[31mΓ£ù[39m Build fa 
+   iled in 
+40ms:String)     [], 
+RemoteException
+    + 
+FullyQualifiedError   
+ Id : 
+NativeCommandErr    or
+ 
+[31merror during 
+build:
+[31m[vite:build-html]
+ Failed to resolve 
+/src/main.jsx from C:/
+Users/Administrator/Do
+cuments/projo/kevoo/ke
+vins-portforlio/index.
+html[31m
+file: [36mC:/Users/Ad
+ministrator/Documents/
+projo/kevoo/kevins-por
+tforlio/index.html[31
+m
+    at file:///C:/User
+s/Administrator/Docume
+nts/projo/kevoo/node_m
+odules/vite/dist/node/
+chunks/config.js:23919
+:64
+    at async 
+Promise.all (index 0)
+    at async 
+Object.handler (file:/
+//C:/Users/Administrat
+or/Documents/projo/kev
+oo/node_modules/vite/d
+ist/node/chunks/config
+.js:24016:5)
+    at async 
+transform (file:///C:/
+Users/Administrator/Do
+cuments/projo/kevoo/no
+de_modules/rollup/dist
+/es/shared/node-entry.
+js:21269:16)
+    at async ModuleLoa
+der.addModuleSource (f
+ile:///C:/Users/Admini
+strator/Documents/proj
+o/kevoo/node_modules/r
+ollup/dist/es/shared/n
+ode-entry.js:21497:36)
+[39m
